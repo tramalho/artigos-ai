@@ -1,3 +1,4 @@
+![img](./img/composite_cover.png)
 ## > Introdução
 
 WorkManager é a biblioteca do Android que você usa quando precisa executar tarefas em segundo plano de forma confiável. Ele lida com toda a complexidade de manter suas tarefas rodando, mesmo que o aplicativo seja fechado ou o dispositivo reiniciado. Basicamente, você configura uma tarefa, define quando ela deve rodar e o WorkManager cuida do resto. Ele é perfeito para qualquer coisa que não precisa ser feita imediatamente e pode esperar um pouco para ser executada.
