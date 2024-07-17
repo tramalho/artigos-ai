@@ -18,6 +18,10 @@
 
 > Schedule tasks with WorkManager android tech image, pencil style
 
+## [OPENART.AI](https://openart.ai)
+
+> (bugdroids running), multiple bugdroids in various positions, pencil style,  dynamic and energetic, fluid brushstrokes, expressive watercolor effects, transparent background, high quality rendering
+
 # CONTEÚDO
 ## [CHATGPT](https://chatgpt.com)
 
