@@ -43,8 +43,9 @@ Comporte-se como um escritor de artigos técnicos mobile e escreva as regras aba
     - Sincronização de Dados em Segundo Plano
     - Processamento de Imagens e Arquivos em Segundo Plano 
 
-Crie um código android WorkManager de exemplo para a explicação abaixo:
-Imagine que você tem um app de notas e quer que tudo o que o usuário escreve seja sincronizado com a nuvem, mas sem atrapalhar a experiência dele. É aí que o WorkManager brilha! Você configura uma tarefa de sincronização que roda em segundo plano, garantindo que, mesmo se o app for fechado, as notas sejam sincronizadas quando o dispositivo estiver ocioso e conectado à internet. Assim, os dados do usuário estão sempre atualizados sem ele perceber.
+> Crie um código android WorkManager de exemplo para a explicação abaixo:
 
-rie um código android WorkManager de exemplo para a explicação abaixo:
-Vamos supor que seu app permita que os usuários façam upload de fotos ou vídeos. Essas tarefas podem ser demoradas e consumir bastante recursos, então você não quer que isso aconteça enquanto o usuário está tentando usar o app. Com o WorkManager, você pode configurar essas tarefas para rodarem em segundo plano, garantindo que os uploads aconteçam de forma suave, sem interromper a usabilidade do app. Ele até lida com o reenvio automático em caso de falhas na rede!
+- Imagine que você tem um app de notas e quer que tudo o que o usuário escreve seja sincronizado com a nuvem, mas sem atrapalhar a experiência dele. É aí que o WorkManager brilha! Você configura uma tarefa de sincronização que roda em segundo plano, garantindo que, mesmo se o app for fechado, as notas sejam sincronizadas quando o dispositivo estiver ocioso e conectado à internet. Assim, os dados do usuário estão sempre atualizados sem ele perceber.
+
+> Crie um código android WorkManager de exemplo para a explicação abaixo:
+- Vamos supor que seu app permita que os usuários façam upload de fotos ou vídeos. Essas tarefas podem ser demoradas e consumir bastante recursos, então você não quer que isso aconteça enquanto o usuário está tentando usar o app. Com o WorkManager, você pode configurar essas tarefas para rodarem em segundo plano, garantindo que os uploads aconteçam de forma suave, sem interromper a usabilidade do app. Ele até lida com o reenvio automático em caso de falhas na rede!
